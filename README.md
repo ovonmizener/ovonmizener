@@ -1,29 +1,60 @@
-# Hi there! 👋
+# Hi there! 👋 I'm Oliver von Mizener
 
-I'm **Oliver von Mizener**, an ASU Data Analytics Boot Camp Graduate passionate about transforming raw data into actionable insights.
+I'm a data and AI enthusiast passionate about turning raw information into real-world solutions.  
+Currently enrolled in Stanford’s [Artificial Intelligence Professional Program](https://online.stanford.edu/programs/artificial-intelligence-professional-program),  
+I’m building on my foundation from the ASU Data Analytics Boot Camp with deeper training in machine learning, neural networks, and real-world AI systems.
+
+---
 
 ## 🚀 About Me
 
-I’m a curious problem-solver who believes every dataset tells a story. My journey through the ASU Data Analytics Boot Camp has empowered me to turn complex data into clear, decision-driving strategies.
+I believe every dataset and model tells a story.  
+With a background in data analytics and a growing focus on applied AI, I aim to bridge the gap between technical complexity and actionable insight.
+
+- 🧠 Stanford AI Professional Program (2025 cohort)  
+- 🎓 ASU Data Analytics Boot Camp Graduate  
+- 🛠 Building tools that clean, analyze, and predict  
+- 🔍 Exploring LLMs, prompt engineering, and AI ethics  
+- ✨ Constantly learning, tinkering, and experimenting
+
+---
 
 ## 🔍 Featured Projects
 
-- **Data-Driven Insights:** A project that harnesses Python and Pandas to clean, analyze, and visualize data trends.
-- **Interactive Dashboard:** An application built with JavaScript and CSS that brings data to life with real-time visualizations.
-- **Predictive Modeling:** A machine learning project that uses statistical techniques to forecast key metrics.
+- **📊 Data-Driven Insights**  
+  Used Python and Pandas to clean and visualize large datasets for business trend discovery.
 
-*Explore my repositories to dive deeper into my work on data cleaning, visualization, and predictive analysis.*
+- **📈 Interactive Dashboard**  
+  Built a JavaScript-based visualization app with real-time, user-driven metrics.
+
+- **🤖 Predictive Modeling**  
+  Developed machine learning models using scikit-learn to forecast outcomes and support decision-making.
+
+*Check out my repos to see hands-on work in data cleaning, visualization, AI experimentation, and automation.*
+
+---
 
 ## 🛠 Skills & Technologies
 
-| Technology             | Proficiency         |
-|------------------------|---------------------|
-| **Python**             | Advanced            |
-| **SQL & Pandas**       | Advanced            |
-| **Jupyter Notebooks**  | Expert              |
-| **JavaScript & CSS**   | Developing          |
-| **APIs**               | Proficient          |
+| Skill / Tech          | Proficiency        |
+|-----------------------|--------------------|
+| Python                | Advanced           |
+| SQL & Pandas          | Advanced           |
+| Jupyter Notebooks     | Expert             |
+| JavaScript & CSS      | Developing         |
+| REST APIs             | Proficient         |
+| Scikit-learn & ML     | Intermediate+      |
+| AI/LLMs               | In Progress (Stanford) |
 
-## 🤝 Connect with Me
+---
 
-- **LinkedIn:** [Oliver von Mizener](https://www.linkedin.com/in/olivervonmizener/)
+## 🤝 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/olivervonmizener)  
+- 🐦 [Twitter / X](https://x.com/ovm_inc)  
+- 📨 Open to collaborations, and discussion
+- 🧪 Always happy to chat about ideas or brainstorm new tools
+
+---
+
+_Thanks for stopping by!_
